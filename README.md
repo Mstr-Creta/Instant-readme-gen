@@ -71,11 +71,3 @@ This is an open-source project! If you want to add support for more languages (G
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-### Tips for your GitHub Page:
-
-* **The "About" Section:** On the right side of your GitHub repo, add a one-sentence description and the tags: `python`, `cli`, `automation`, `devops`, `ai`.
-* **Add a GIF:** If you can, record a 15-second clip of you running the command and the file appearing. You can upload this directly to the README.
-* **Releases:** Use the GitHub "Releases" feature to track your `v0.1.2` version. This makes the repo look active and professional.
-
-**Would you like me to help you write a `CONTRIBUTING.md` file so that developers who find you on LinkedIn know exactly how to help you expand the "Smart Discovery" logic?**
