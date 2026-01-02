@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Instant-readme-gen"  
+version = "0.1.2"            # Windows encoding fix
+description = "Zero-config README generator with smart discovery and safety lock."
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{name = "CRETA", email = "mastercreta07@gmail.com"}]
+license = {text = "MIT"}
+
+[project.scripts]
+gen-readme = "cli:generate"
